@@ -1,3 +1,12 @@
+# Air Qazaq
+
+This is a Next.js project that simulates a fictional airline website for Air Qazaq. The site features a modern design and provides users with information on flight schedules, prices, and availability.
+
+With Next.js, the site is optimized for performance and SEO. It also integrates with APIs and databases to provide real-time data to users.
+
+This project is a great example of how Next.js can be used to create professional-looking websites quickly and easily. Whether you're looking to build a prototype or a fully functional website, Next.js is a great choice.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
